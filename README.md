@@ -1,5 +1,4 @@
 # Efento-Gateway-integration
-http server with a database.
 
 **This tutorial will show you how to setup a simple http server with a database and configure Efento gateway to send the data to it. In this tutorial we are using Python, Flask and PostgreSQL database, but the same idea can be easily implemented in other programming languages / with different databases. Should you have any issues or questions, feel free to drop us a line at help.efento.io**
 
